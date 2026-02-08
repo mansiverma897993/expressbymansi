@@ -1,16 +1,62 @@
-# React + Vite
+<p align="center">
+  <img src="https://image2url.com/r2/default/images/1770548664646-9f7b5b96-7bb2-4645-9971-f5b5d3a1aa9f.jpeg" alt="Express By Mansi Logo" width="300"/>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<h1 align="center">Express By Mansi</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  🎙️ Podcast • 🚀 Tech • 🌐 Web3 • 🤖 AI • ✨ Digital Expression
+</p>
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🌟 About
 
-## Expanding the ESLint configuration
+**Express By Mansi** is the official website of *Mansi Verma* — a podcast and creator platform where technology meets expression.  
+The platform explores **Web3, Artificial Intelligence, Blockchain, digital trends**, and the **creator journey** through podcasts, conversations, and visual storytelling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is built as a modern, responsive web experience using **React** and **Vite**.
+
+---
+
+## 🔥 Features
+
+- 🎧 Podcast & episode showcase  
+- 🌐 Tech topics: Web3, AI, Blockchain  
+- 📱 Fully responsive design  
+- ⚡ Fast performance with Vite  
+- 🎨 Clean UI with modern animations  
+- 🔗 Social media integration  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **CSS / Tailwind-style utility classes**
+- **Lucide Icons**
+
+---
+
+## 🚀 Live Demo
+
+> 🔗 *Coming soon (Deployed via Vercel)*
+
+---
+
+## 📂 Project Structure
+
+```bash
+express-by-mansi/
+├── public/
+│   └── ebm-logo.jpeg
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+└── vite.config.js
