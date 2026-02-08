@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sss.jpeg" alt="Express By Mansi Logo" width="300"/>
+  <img src="sss.jpeg" alt="Express By Mansi Logo" width="900"/>
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ## 🌟 About
 
-**Express By Mansi** is the official website of *Mansi Verma* — a podcast and creator platform where technology meets expression.  
+**Express By Mansi** is the official website of *EBM* — a podcast and creator platform where technology meets expression.  
 The platform explores **Web3, Artificial Intelligence, Blockchain, digital trends**, and the **creator journey** through podcasts, conversations, and visual storytelling.
 
 This project is built as a modern, responsive web experience using **React** and **Vite**.
