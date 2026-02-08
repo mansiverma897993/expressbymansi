@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image2url.com/r2/default/images/1770548664646-9f7b5b96-7bb2-4645-9971-f5b5d3a1aa9f.jpeg" alt="Express By Mansi Logo" width="300"/>
+  <img src="sss.jpeg" alt="Express By Mansi Logo" width="300"/>
 </p>
 
 
